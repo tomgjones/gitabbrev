@@ -1,0 +1,27 @@
+.Dd 2011-09-19
+.Dt g-a 8
+.Sh NAME
+.Nm g-a
+.Nd "git-add alias"
+.Sh SYNOPSIS
+.Nm g-a
+.Op Fl n
+.Op Fl v
+.Op Fl -force | Fl f
+.Op Fl -interactive | Fl -i
+.Op Fl -patch | Fl p
+.Op Fl -edit | Fl e
+.\" FIXME
+.\" .Op Fl -all | [--update | Fl u]
+[--all | [--update | -u]]
+.Op Fl -intent-to-add | Fl N
+.Op Fl -refresh
+.Op Fl -ignore-errors
+.Op Fl -ignore-missing
+.Op --
+.Op Ar <filepattern> ...
+.Sh DESCRIPTION
+.Nm g-a
+is a short alias for git-add or "git add".
+.Sh SEE ALSO
+git-add(1)

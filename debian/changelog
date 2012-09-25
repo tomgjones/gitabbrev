@@ -1,0 +1,5 @@
+gitabbrev (0.1~test.0-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Tom Jones <tom.jones@oucs.ox.ac.uk>  Fri, 16 Sep 2011 18:28:37 +0100

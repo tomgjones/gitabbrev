@@ -1,0 +1,12 @@
+Source: gitabbrev
+Section: unknown
+Priority: extra
+Maintainer: tom <tom.jones@oucs.ox.ac.uk>
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev
+Standards-Version: 3.8.4
+
+Package: gitabbrev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Aliases for common git commands.
+ Aliases for common git commands.
