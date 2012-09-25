@@ -1,5 +1,5 @@
 Source: gitabbrev
-Section: unknown
+Section: misc
 Priority: extra
 Maintainer: tom <tom.jones@oucs.ox.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~), autotools-dev
